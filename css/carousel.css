@@ -137,3 +137,7 @@ body {
 .navbar {
 	background-color: #FFF;
 }
+
+#sign-up-for-free:hover {
+	color: #ddd;
+}
